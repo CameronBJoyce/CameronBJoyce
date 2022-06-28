@@ -1,4 +1,2 @@
 - :man: Hi, I’m Cameron
-- :cloud: I’m interested in data/cloud engineering and BI architecture
-- :book: Always learning AWS, Splunk, and Spark
 - :page_with_curl:[Check out my website to learn more about me](https://cameronbjoyce.github.io/)
