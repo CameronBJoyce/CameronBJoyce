@@ -1,5 +1,4 @@
 - :man: Hi, I’m Cameron
-- :chicken:Experienced in: Python, SQL, R, C#
-- :hatched_chick:Competent in: AWS QuickSight, Kibana, Tableau, PowerBI
-- :hatching_chick: Rookie ML Dev in: AWS SageMaker, Elastic ML, TensorFlow
+- :toolbox: Experienced in: Python, SQL, R, C#
+- :round_pushpin: ML Engineer @ BAH
 - :page_with_curl:[Check out my website to learn more about me](https://cbjoyce.com)
