@@ -1,4 +1,2 @@
-- :man: Hi, I’m Cameron
-- :toolbox: Experienced in: Python, SQL, R, C#
-- :round_pushpin: ML Engineer @ JPMC
-- :page_with_curl:[Check out my website to learn more about me](https://cbjoyce.com)
+- Associate Director of Analytics at Barings, an alternative asset manager.
+- [Check out my website to learn more about me](https://cbjoyce.com)
